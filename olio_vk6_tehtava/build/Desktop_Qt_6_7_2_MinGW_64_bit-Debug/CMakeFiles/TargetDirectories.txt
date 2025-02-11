@@ -1,0 +1,7 @@
+C:/work/oliokurssi/olio_vk6_tehtava/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/olio_vk6_tehtava.dir
+C:/work/oliokurssi/olio_vk6_tehtava/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/work/oliokurssi/olio_vk6_tehtava/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/work/oliokurssi/olio_vk6_tehtava/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/work/oliokurssi/olio_vk6_tehtava/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/work/oliokurssi/olio_vk6_tehtava/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/work/oliokurssi/olio_vk6_tehtava/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
